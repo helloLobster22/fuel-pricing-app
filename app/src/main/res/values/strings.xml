@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vrum Vrum Demo</string>
+    <string name="choose_txt">Choose your car or</string>
+    <string name="add_new_car_txt">Add new car</string>
+</resources>

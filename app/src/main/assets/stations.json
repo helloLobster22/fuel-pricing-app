@@ -1,0 +1,27 @@
+{
+    "fuelStation": [
+        {
+            "id": 0,
+            "brand": "Lotos",
+            "price": 5.67,
+            "latitude": 50.72312198064594, 
+            "longtitude": 20.30123423698125
+        },
+        
+        {
+            "id": 1,
+            "brand": "BP",
+            "price": 5.27,
+            "latitude": 50.81692175828175, 
+            "longtitude": 20.367152204790973
+        },
+
+        {
+            "id": 2,
+            "brand": "Orlen",
+            "price": 6.01,
+            "latitude": 51.04541882016944, 
+            "longtitude": 20.779139503601744
+        }
+    ]
+}
