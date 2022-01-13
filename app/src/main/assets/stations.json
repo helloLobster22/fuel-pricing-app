@@ -1,27 +1,251 @@
 {
-    "fuelStation": [
-        {
-            "id": 0,
-            "brand": "Lotos",
-            "price": 5.67,
-            "latitude": 50.72312198064594, 
-            "longtitude": 20.30123423698125
-        },
-        
-        {
-            "id": 1,
-            "brand": "BP",
-            "price": 5.27,
-            "latitude": 50.81692175828175, 
-            "longtitude": 20.367152204790973
-        },
+  "fuelStation": [
+    {
+      "id": 0,
+      "brand": "Lotos",
+      "price": 5.67,
+      "latitude": 50.72312198064594,
+      "longtitude": 20.30123423698125
+    },
 
-        {
-            "id": 2,
-            "brand": "Orlen",
-            "price": 6.01,
-            "latitude": 51.04541882016944, 
-            "longtitude": 20.779139503601744
-        }
-    ]
+    {
+      "id": 1,
+      "brand": "BP",
+      "price": 5.27,
+      "latitude": 50.81692175828175,
+      "longtitude": 20.367152204790973
+    },
+
+    {
+      "id": 2,
+      "brand": "Orlen",
+      "price": 6.01,
+      "latitude": 51.04541882016944,
+      "longtitude": 20.779139503601744
+    },
+
+    {
+      "id": 3,
+      "brand": "Orlen",
+      "price":6.00,
+      "latitude": 50.08992546321916,
+      "longtitude": 19.89330005457803
+    },
+
+    {
+      "id": 4,
+      "brand": "Orlen",
+      "price":6.02,
+      "latitude": 50.081368665801826,
+      "longtitude": 19.774095975916325
+    },
+
+    {
+      "id": 5,
+      "brand": "BP",
+      "price": 5.28,
+      "latitude": 50.10055251544947,
+      "longtitude": 19.552993966791036
+    },
+
+    {
+      "id": 6,
+      "brand": "Orlen",
+      "price": 6.01,
+      "latitude": 50.15084664930542, 
+      "longtitude": 19.312089460095283
+    },
+
+    {
+      "id": 7,
+      "brand": "Shell",
+      "price":5.40,
+      "latitude": 50.25488818517499,
+      "longtitude": 18.88774251841496
+    },
+
+    {
+      "id": 8,
+      "brand": "Lotos",
+      "price": 5.70,
+      "latitude": 50.31334156112102,
+      "longtitude": 18.55248782906726
+    },
+
+    {
+      "id": 9,
+      "brand": "Orlen",
+      "price": 6.02,
+      "latitude": 50.46357711316407,
+      "longtitude": 18.160882878059834
+    },
+
+    {
+      "id": 10,
+      "brand": "Dyskont Paliwowy",
+      "price": 5.45,
+      "latitude": 51.02435224889325,
+      "longtitude": 16.75992693292325
+    },
+
+    {
+      "id": 11,
+      "brand": "BP",
+      "price": 5.30,
+      "latitude": 51.18958846111554,
+      "longtitude": 15.108353913124562
+    },
+
+    {
+      "id": 12,
+      "brand": "Aral",
+      "price": 5.53,
+      "latitude": 51.06436856580256,
+      "longtitude": 13.575260969786001
+    },
+
+    {
+      "id": 13,
+      "brand": "Schell",
+      "price": 5.55,
+      "latitude": 51.03868732734549,
+      "longtitude": 13.29643113729544
+    },
+
+    {
+      "id": 14,
+      "brand": "Shell",
+      "price": 5.55,
+      "latitude": 50.894371371927924,
+      "longtitude": 12.942451389158364
+    },
+
+    {
+      "id": 15,
+      "brand": "Aral",
+      "price":5.52,
+      "latitude": 50.889829809709866,
+      "longtitude": 11.871919064575366
+    },
+
+    {
+      "id": 16,
+      "brand": "Total",
+      "price": 6.02,
+      "latitude": 50.95094679747987,
+      "longtitude": 11.197546439030011
+    },
+
+    {
+      "id": 17,
+      "brand": "Shell",
+      "price":5.62,
+      "latitude": 50.91220517789746,
+      "longtitude": 10.590167942089808
+    },
+
+    {
+      "id": 18,
+      "brand": "Aral",
+      "price":5.60,
+      "latitude": 50.62612721260854,
+      "longtitude": 8.896701458674286
+    },
+
+    {
+      "id": 19,
+      "brand": "Esso",
+      "price":5.63,
+      "latitude": 50.068637814675206,
+      "longtitude": 8.585939809413132
+    },
+    {
+      "id": 20,
+      "brand": "Total",
+      "price": 6.01,
+      "latitude": 49.21363853510011,
+      "longtitude": 6.968648849878454
+    },
+
+    {
+      "id": 21,
+      "brand": "BP",
+      "price": 5.30,
+      "latitude": 49.120604297201766,
+      "longtitude": 5.509238286053735
+    },
+
+    {
+      "id": 22,
+      "brand": "AVIA Valmy le Moulin",
+      "price":5.57,
+      "latitude": 49.07487191437364,
+      "longtitude": 4.792767347615484
+    },
+
+    {
+      "id": 23,
+      "brand": "AS 24",
+      "price": 5.64,
+      "latitude": 49.03900723502676,
+      "longtitude": 4.322446745390675
+    },
+
+    {
+      "id": 24,
+      "brand": "TotalEnergies",
+      "price": 5.62,
+      "latitude": 47.99004420189796,
+      "longtitude": 1.8537546809495287
+    },
+
+    {
+      "id": 25,
+      "brand": "AS 24",
+      "price":5.74,
+      "latitude": 47.960963012231765,
+      "longtitude": 1.8427528346189075
+    },
+
+    {
+      "id": 26,
+      "brand": "TotalEnergies",
+      "price":5.73,
+      "latitude": 47.48131318639331,
+      "longtitude": 0.7753866038751549
+    },
+
+    {
+      "id": 27,
+      "brand": "Esso",
+      "price":5.81,
+      "latitude": 47.384517778406156,
+      "longtitude": 0.7107795597464277
+    },
+
+    {
+      "id": 28,
+      "brand": "BP",
+      "price":5.83,
+      "latitude": 45.64189492737541,
+      "longtitude": -0.6128824797112343
+    },
+
+    {
+      "id": 29,
+      "brand": "Shell",
+      "price":5.76,
+      "latitude": 42.7267760982558,
+      "longtitude": -2.9060984119538635
+    },
+
+    {
+      "id": 30,
+      "brand": "Petroprix Alcorcón Tres Aguas",
+      "price":5.69,
+      "latitude": 40.37976687062257,
+      "longtitude": -3.824774254170561
+    }
+
+  ]
 }
